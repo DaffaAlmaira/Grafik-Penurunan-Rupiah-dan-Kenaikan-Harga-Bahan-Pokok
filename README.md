@@ -1,7 +1,7 @@
 # Analisis-Dampak-Penurunan-Nilai-Rupiah-Terhadap-Kebutuhan-Pokok-Masyarakat
 "Analisis Dampak Penurunan Nilai Rupiah Terhadap Kebutuhan Pokok Masyarakat" adalah proyek analisis kecil yang menyangkut perbandingan harga kebutuhan pokok masyarakat antara tahun 2024 dan 2026 dengan tujuan mengetahui salah satu dampak dari melemahnya rupiah pada Indonesia. Kesimpulan singkatnya adalah bahan pokok makanan merupakan salah satu dari banyaknya hal yang terkena dampak dari penurunan nilai rupiah. Dan berikut adalah image grafik perubahan yang saya buat, disini saya hanya mengambil beberapa data karena saya ingin menunjukkan sebagian kecil dari dampaknya. Saya juga menggunakan python untuk grafik kali ini di bantu dengan tutorial karena ini kali pertama saya menggunakan python, yay! :)
-.
 Tentu saya mengalami error saat membuat grafik ini, pusing! Mulai dari tombol next dan back yang tidak mau jalan, data yang malah muncul di tombol dan tidak lupa dengan kekeliruan saya terhadap kegunaan ' dan " dalam python, haha. Tapi hal tersebut bukan menjadi penghambat bagi saya, saya tetap mencoba dan mencoba hingga akhirnya bisa menciptakan grafik sederhana ini dalam penggunaan python pertama saya (merasa bangga) hehe.
+Saran dan masukkan untuk grafik saya akan sangat saya terima! Terima kasih!
 <img width="1365" height="638" alt="image" src="https://github.com/user-attachments/assets/265be68c-ea7b-47fe-981e-852fbe8cef4c" />
 <img width="1366" height="632" alt="image" src="https://github.com/user-attachments/assets/07dfdfef-b05c-4d3d-8a9d-43ea5ba894d2" />
 <img width="1366" height="630" alt="image" src="https://github.com/user-attachments/assets/f8d9412e-165c-44be-a844-8bffa044a824" />
